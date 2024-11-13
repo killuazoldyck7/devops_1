@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: killuazoldyck7/hw8:latest
+          tags: varunrahulm/hw8:latest
 
           # Add other relevant build parameters here
